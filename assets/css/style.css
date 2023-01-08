@@ -1,0 +1,28 @@
+@import url(./globais.css/color.css);
+
+@import url(./globais.css/header.css);
+
+@import url(./globais.css/footer.css);
+@import url(./globais.css/desenvolvimento.css);
+
+@import url(./globais.css/buttonwhatsapp.css);
+
+@import url(./globais.css/meninaTecnologia.css);
+@import url(./globais.css/orcamento.css);
+
+
+/* Index */
+@import url(./index/main/principal/principal.css);
+@import url(./index/main/oQueFazemos/oQueFazemos.css);
+@import url(./index/main/criacoes/criacoes.css);
+@import url(./);
+@import url(./index/main/importanciaDoSite/importanciaDoSite.css);
+
+/* Orçamento */
+@import url(./orcamento/main/entrarEmContato/entrarEmContato.css);
+
+/* Quem Somos */
+@import url(./quem-somos/main/quemSomos/duvidasFrequentes.css);
+
+@import url(./quem-somos/main/quemSomos/quemSomos.css);
+@import url(./quem-somos/main/quemSomos/containerQuemSomos.css);
