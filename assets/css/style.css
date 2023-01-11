@@ -15,7 +15,7 @@
 @import url(./index/main/principal/principal.css);
 @import url(./index/main/oQueFazemos/oQueFazemos.css);
 @import url(./index/main/criacoes/criacoes.css);
-@import url(./);
+@import url(./index/main/siteEmDestaque.css);
 @import url(./index/main/importanciaDoSite/importanciaDoSite.css);
 
 /* Orçamento */
@@ -26,3 +26,9 @@
 
 @import url(./quem-somos/main/quemSomos/quemSomos.css);
 @import url(./quem-somos/main/quemSomos/containerQuemSomos.css);
+
+/* Portfólio */
+@import url(./portfolio/main/portfolio.css);
+
+
+
